@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyLocation</string>
+    <string name="location_permission_denied_message">Location Permissions denied!</string>
 </resources>
